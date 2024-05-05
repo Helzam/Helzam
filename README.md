@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Helzam
-- 👀 I’m interested in Gaming and creating it 
+- 👀 I’m interested in Gaming and creating Websites
 - 🌱 I’m currently learning Front end development
-- 💞️ I’m looking to collaborate on my games I am working on
+- 💞️ I’m looking to collaborate on my games and websites
 - 📫 How to reach me heslamchristian@gmail.com
 
 <!---
